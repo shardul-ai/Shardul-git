@@ -1,3 +1,6 @@
 const name  =  "Ghost";
+const age = 23;
 
-console.log()
+function isAbove(age) {
+    return age >= 18;
+}
